@@ -1,0 +1,47 @@
+_repo: Space-brat_73674
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Slesar, Henry
+    aliases:
+    - Leslie, O. H.
+    - Mitchell, Clyde
+    - Jarvis, E. K.
+    birthdate: 1927
+    deathdate: 2002
+    gutenberg_agent_id: '28398'
+    url: http://www.gutenberg.org/2009/agents/28398
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Slesar
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73674'
+language: en
+pgterms:marc905: 20240320164312leslie
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Space brat
+url: http://www.gutenberg.org/ebooks/73674
